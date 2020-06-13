@@ -2,11 +2,35 @@
   text-align: center;
 }
 
+body {
+  background-image: url('https://wallpaperhd.wiki/wp-content/uploads/zelda-wallpaper-qtq7e9i.jpg');
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  background-size:cover;
+
+}
+
 * {
   font-family: Arial, Helvetica, sans-serif;
+  color: #add8e6;
+  font-size: 20px;
+  text-shadow: .5px .5px white;
+}
+
+h1 {
+  font-size: 45px;
+  text-shadow: 1px 1px white;
 }
 
 .cow0 {
-  color: red;
+  font-weight: bold;
+  font-size: 35px;
+  text-shadow: 1px 1px white;
+
+}
+
+.cow0description {
+  font-style: italic;
   font-size: 30px;
+
 }
