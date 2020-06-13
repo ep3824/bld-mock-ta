@@ -29,6 +29,11 @@ h1 {
 
 }
 
+img {
+  height: 50px;
+  width: 50px;
+}
+
 .cow0description {
   font-style: italic;
   font-size: 30px;
